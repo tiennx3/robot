@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "DongCoDC", "DongCoDC\DongCoDC.cproj", "{B90BB6DD-563F-459F-B7EA-FAC2922E9B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90BB6DD-563F-459F-B7EA-FAC2922E9B97}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B90BB6DD-563F-459F-B7EA-FAC2922E9B97}.Debug|AVR.Build.0 = Debug|AVR
+		{B90BB6DD-563F-459F-B7EA-FAC2922E9B97}.Release|AVR.ActiveCfg = Release|AVR
+		{B90BB6DD-563F-459F-B7EA-FAC2922E9B97}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
